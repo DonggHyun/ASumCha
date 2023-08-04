@@ -1,9 +1,10 @@
-# AsumCha(아숨차)
+AsumCha(아숨차)
 -----
-###등산 도우미 웹사이트
+등산 도우미 웹사이트
+### [노션링크].(https://gossamer-shrimp-82c.notion.site/6644185b04de4877953810420d498f25?pvs=4)
 -----
-###기술스택
-###JAVA(JDK11), JSP, HTML5, CSS, JAVAScript, MySQL(8.0.33)
+기술스택
+JAVA(JDK11), JSP, HTML5, CSS, JAVAScript, MySQL(8.0.33)
 
 네이버 지도API를 활용하여 수준에 맞는 등산코스 및 소요시간 제공
 
